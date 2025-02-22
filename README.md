@@ -4,7 +4,17 @@ Este projeto contém testes automatizados para verificar diferentes cenários de
 
 📂 Estrutura do Projeto
 
-📦 cypress/ ┣ 📂 downloads/ # Diretório para downloads durante os testes ┣ 📂 e2e/ # Testes de ponta a ponta ┃ ┗ 📜 Testemanual.cy.js # Arquivo com os testes automatizados ┣ 📂 fixtures/ # Arquivos de dados para os testes ┃ ┗ 📜 example.json # Exemplo de dados utilizados nos testes ┣ 📂 support/ # Suporte para os testes ┃ ┣ 📜 commands.js # Comandos personalizados do Cypress ┃ ┗ 📜 e2e.js # Configuração global do Cypress ┣ 📜 cypress.config.js # Configuração do Cypress ┣ 📜 package.json # Dependências e scripts do projeto
+📦 cypress/ 
+┣ 📂 downloads/ # Diretório para downloads durante os testes 
+┣ 📂 e2e/ # Testes de ponta a ponta 
+┃ ┗ 📜 Testeauto.cy.js # Arquivo com os testes automatizados 
+┣ 📂 fixtures/ # Arquivos de dados para os testes ┃ 
+┗ 📜 example.json # Exemplo de dados utilizados nos testes 
+┣ 📂 support/ # Suporte para os testes ┃ 
+┣ 📜 commands.js # Comandos personalizados do Cypress ┃ 
+┗ 📜 e2e.js # Configuração global do Cypress 
+┣ 📜 cypress.config.js # Configuração do Cypress 
+┣ 📜 package.json # Dependências e scripts do projeto
 
 ✅ Pré-requisitos
 
